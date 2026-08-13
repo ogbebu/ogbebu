@@ -44,3 +44,7 @@
 ![github](https://www.readmecodegen.com/api/social-icon?name=github&size=96&color=%23ffffff)
 ![git](https://www.readmecodegen.com/api/social-icon?name=git&size=96)
 ![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=96)
+
+## 📜 Contact Me:
+- Discord: zeroday777
+- Signal: zeroday777
