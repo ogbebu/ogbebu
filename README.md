@@ -1,4 +1,5 @@
 ## 👋 Hi everyone, Zeroday Here!
+> 💻 Developer • 🎮 GameDev • 🐧 Linux • ⚙️ Low-Level Programming
 
 ## 😀 About Me:
 - 💻 Developer interested in software, web & game development and some low-level stuff
@@ -22,6 +23,9 @@
 - 🎮 **Game Development** — Working with Unity Engine & C#.
 - 🌐 **Web Development** — Building full-stack websites.
 
+## 🎵 Banger For Coding:
+[![Spotify](https://img.shields.io/badge/Spotify-BLUE%20STACKS-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4gvL6aGsNUwDk41hEJCpit)
+
 ## 🧑‍💻 Programming Languages & Tools I Use:
 ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=96)
 ![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=96)
@@ -36,7 +40,7 @@
 ![postgresql](https://www.readmecodegen.com/api/social-icon?name=postgresql&size=96&color=%238b5cf6)
 
 ![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=96)
-![express](https://www.readmecodegen.com/api/social-icon?name=express&size=96)
-![github](https://www.readmecodegen.com/api/social-icon?name=github&size=96)
+![express](https://www.readmecodegen.com/api/social-icon?name=express&size=96&bg=%23000000&theme=dark&color=%23ffffff)
+![github](https://www.readmecodegen.com/api/social-icon?name=github&size=96&color=%23ffffff)
 ![git](https://www.readmecodegen.com/api/social-icon?name=git&size=96)
 ![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=96)
