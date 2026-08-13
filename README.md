@@ -28,6 +28,7 @@
 - Signal: zeroday777
 
 ## 📝 Other Stuff:
+[![YouTube Channel](https://img.shields.io/badge/YOUTUBE-OGBEBU-5865F2?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@og_bebu)
 [![Sonara Discord](https://img.shields.io/badge/DISCORD-SONARA-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SnjCEvQJJY)
 [![Track For Coding](https://img.shields.io/badge/SPOTIFY-BLUE%20STACKS-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4gvL6aGsNUwDk41hEJCpit)
 
