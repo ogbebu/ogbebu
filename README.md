@@ -23,8 +23,13 @@
 - 🎮 **Game Development** — Working with Unity Engine & C#.
 - 🌐 **Web Development** — Building full-stack websites.
 
-## 🎵 Banger For Coding:
-[![Spotify](https://img.shields.io/badge/Spotify-BLUE%20STACKS-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4gvL6aGsNUwDk41hEJCpit)
+## 📜 Contact Me:
+- Discord: zeroday777
+- Signal: zeroday777
+
+## 📝 Other Stuff:
+[![Sonara Discord](https://img.shields.io/badge/DISCORD-SONARA-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SnjCEvQJJY)
+[![Track For Coding](https://img.shields.io/badge/SPOTIFY-BLUE%20STACKS-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4gvL6aGsNUwDk41hEJCpit)
 
 ## 🧑‍💻 Programming Languages & Tools I Use:
 ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=96)
@@ -45,6 +50,3 @@
 ![git](https://www.readmecodegen.com/api/social-icon?name=git&size=96)
 ![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=96)
 
-## 📜 Contact Me:
-- Discord: zeroday777
-- Signal: zeroday777
