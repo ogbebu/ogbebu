@@ -1,5 +1,5 @@
 ## 👋 Hi everyone, Zeroday Here!
-> 💻 Full-Stack Developer • 🎮 Game Developer in Unity • 🐧 Linux Fedora 44 • 🪟 Microslop Windows 11 Pro • ⚙️ Low-Level Programming
+> 💻 Full-Stack Developer • 🎮 Game Developer in Unity • 🐧 Linux Fedora 44 • 🪟 Microslop Windows 11 Pro
 
 ## 😀 About Me:
 - 💻 Developer interested in software, web & game development and some low-level stuff
