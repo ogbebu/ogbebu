@@ -1,7 +1,28 @@
-## Hi everyone, Zeroday Here!
+## 👋 Hi everyone, Zeroday Here!
 
+## 😀 About Me:
+- 💻 Developer interested in software, web & game development and some low-level stuff
+- 🚀 Currently working on personal projects and learning new technologies
+- 🎮 I enjoy creating games with Unity, especially 3D
+- 🌐 Building full-stack applications with React, Node.js & PostgreSQL
+- 🐧 Linux enthusiast, Microslop sucks :D
+- 🔧 I like building things from scratch and experimenting with operating systems
+- 🧠 Currently learning C, C#, C++ and improving my JavaScript skills
 
-## Programming Languages & Tools I Use:
+## 🖥️ My Setup:
+- CPU: Intel Core i5-13400F @ Performance Cores Only
+- GPU: NVIDIA GeForce RTX 4060 8GB (Gigabyte)
+- RAM: Lexar 32GB 3200Mhz DDR4 (Dual-Channel)
+- ROM: Intel SSD 512GB M.2 PCIE
+- PSU: Endorfy 600W (Bronze 80+)
+
+## 🚀 Current Projects:
+- 🎵 **Sonara** — Music platform built with React, Node.js & PostgreSQL.
+- 🖥️ **KostkaOS** — My own hobby operating system in COSMOS.
+- 🎮 **Game Development** — Working with Unity Engine & C#.
+- 🌐 **Web Development** — Building full-stack websites.
+
+## 🧑‍💻 Programming Languages & Tools I Use:
 ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=96)
 ![html5](https://www.readmecodegen.com/api/social-icon?name=html5&size=96)
 ![css3](https://www.readmecodegen.com/api/social-icon?name=css3&size=96)
@@ -14,17 +35,8 @@
 ![linux](https://www.readmecodegen.com/api/social-icon?name=linux&size=96)
 ![postgresql](https://www.readmecodegen.com/api/social-icon?name=postgresql&size=96&color=%238b5cf6)
 
-<!--
-**ogbebu/ogbebu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![nodejs](https://www.readmecodegen.com/api/social-icon?name=nodejs&size=96)
+![express](https://www.readmecodegen.com/api/social-icon?name=express&size=96)
+![github](https://www.readmecodegen.com/api/social-icon?name=github&size=96)
+![git](https://www.readmecodegen.com/api/social-icon?name=git&size=96)
+![mongodb](https://www.readmecodegen.com/api/social-icon?name=mongodb&size=96)
