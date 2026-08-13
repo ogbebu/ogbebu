@@ -14,7 +14,7 @@
 - CPU: Intel Core i5-13400F @ Performance Cores Only
 - GPU: NVIDIA GeForce RTX 4060 8GB (Gigabyte)
 - RAM: Lexar 32GB 3200Mhz DDR4 (Dual-Channel)
-- ROM: Intel SSD 512GB M.2 PCIE
+- ROM: Intel SSD 512GB M.2 PCIE, 512GB SSD SATA III, 2TB USB Drive
 - PSU: Endorfy 600W (Bronze 80+)
 
 ## 🚀 Current Projects:
