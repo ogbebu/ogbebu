@@ -30,7 +30,6 @@
 ## 📝 Other Stuff:
 [![YouTube Channel](https://img.shields.io/badge/YOUTUBE-OGBEBU-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@og_bebu)
 [![Sonara Discord](https://img.shields.io/badge/DISCORD-SONARA-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SnjCEvQJJY)
-[![Track For Coding](https://img.shields.io/badge/SPOTIFY-PLAYLIST%20FOR%20CODING-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1lwlFjx1MbdkTTECwuC47K)
 
 ## 🧑‍💻 Programming Languages & Tools I Use:
 ![javascript](https://www.readmecodegen.com/api/social-icon?name=javascript&size=96)
