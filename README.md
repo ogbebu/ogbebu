@@ -20,7 +20,7 @@
 ## 🚀 Current Projects:
 - 🎵 **Sonara** — Music platform built with React, Node.js & PostgreSQL.
 - 🖥️ **KostkaOS** — My own hobby operating system in COSMOS.
-- 🎮 **Game Development** — Working with Unity Engine & C#.
+- 🎮 **ANOMALY** — Singleplayer (for now :D) Horror Game in Unity 3D.
 - 🌐 **Web Development** — Building full-stack websites.
 
 ## 📜 Contact Me:
