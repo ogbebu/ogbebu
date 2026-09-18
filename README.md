@@ -19,16 +19,14 @@
 
 ## 🚀 Current Projects:
 - 🎵 **Sonara** — Music platform built with React, Node.js & PostgreSQL.
-- 🖥️ **KostkaOS** — My own hobby operating system in COSMOS.
-- 🎮 **ANOMALY** — Singleplayer (for now :D) Horror Game in Unity 3D.
-- 🌐 **Web Development** — Building full-stack websites.
+- 🖥️ **NexusOS** — My own hobby operating system in COSMOS Framework.
+- 🎮 **ANOMALY** — Singleplayer Story Horror Game in Unity 3D.
 
 ## 📜 Contact Me:
 - Discord: zeroday777
 - Signal: zeroday777
 
 ## 📝 Other Stuff:
-[![YouTube Channel](https://img.shields.io/badge/YOUTUBE-OGBEBU-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@og_bebu)
 [![Sonara Discord](https://img.shields.io/badge/DISCORD-SONARA-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SnjCEvQJJY)
 
 ## 🧑‍💻 Programming Languages & Tools I Use:
